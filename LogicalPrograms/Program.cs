@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            PerfectNumber.perfectNo();
+            PrimeNumber.PrimeNumbers();
 
         }
     }
