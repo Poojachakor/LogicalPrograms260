@@ -6,10 +6,8 @@ namespace LogicalPrograms
     {
         static void Main(string[] args)
         {
-            CouponNumbers.CouponGenerator();
-        
-
-
+            SimulateStopwatchProgram.StopWatchSimulation();
+            
 
         }
     }
